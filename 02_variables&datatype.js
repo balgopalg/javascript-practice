@@ -5,6 +5,22 @@
 // Object
 // function
 
+// simple datatypes
+// 1. String
+// 2. Number
+// 3. Bigint
+// 4. Boolean
+// 5. Undefined
+// 6. NULL
+// 7. Symbol
+// 8. Object
+
+// Object 
+// 1. an Object
+// 2. an Array
+// 3. a Date
+
+
 myName = 'balgopal'
 console.log(myName+" " + typeof myName)
 
